@@ -6,9 +6,9 @@ bigimg: /img/path.jpg
 tags: [books, review]
 ---
 >    live fast  
->    die young
->      be wild
->     have fun
+>    die young  
+>      be wild  
+>     have fun  
 
 Đây là cuốn sách 95k mà tôi mua với giá 15k trong một lần lướt tiki trước dịp Tết. Ờm thì đọc tiêu đề thì có vẻ là sách self-help 
 hay tự truyện gì đó về "*tuổi trẻ*", tôi cũng không quan tâm thể loại lắm, chủ yếu ham rẻ nên mua cho đủ đơn hàng freeship.
