@@ -2,7 +2,8 @@
 layout: post
 title: TUỔI TRẺ HOANG DẠI
 subtitle:        -nguyễn ngọc thạch-
-bigimg: /img/.jpg
+bigimg: /img/path.jpg
+gh-badge: [star, follow]
 tags: [books, review]
 ---
 
@@ -13,6 +14,9 @@ Thôi thì mình cũng tự tin chắc "nó" chừa mình ra.
 
 Dù tự tin là vậy, vẫn không thể thay đối sự thật rằng: vừa lật vài trang đầu, trong cuốn sách của tôi, ngay phần đầu tiên- 
 "*TUỔI TRẺ SẼ CÓ GÌ?*", đập vào mắt là 4 trang giấy trắng tinh. Ừ thì cam chịu thôi, tiền nào của nấy. 
+
+![](/img/tuoi-tre-hoang-dai.jpg){: .center-block :}
+
 **NHƯNG**, đừng vì thế mà bạn bỏ qua cuốn sách này nhé, hãy cùng tôi đọc tiếp và cùng tìm ra câu trả lời.
 
 "Bạn đừng ngạc nhiên hay bất ngờ, nghĩ rằng cuốn sách này bị lỗi rồi gọi lên chỗ bán sách phàn nàn hay đổi cuốn khác.
@@ -21,9 +25,9 @@ Tuổi trẻ của chúng ta, dù cách nhau vì thế hệ thì vẫn như nhau
 ..."
 
 **TUỔI TRẺ HOANG DẠI** - như lời tác giả viết :
->"Một cuốn sách đơn giản,
-của một người đi từ nơi không có gì
-đến nơi không còn gì."
+>"*Một cuốn sách đơn giản,
+>của một người đi từ nơi không có gì
+>đến nơi không còn gì.*"
 
 Nghe có vẻ so deep, nhưng thực sự đọc xong thì tôi vẫn chưa thấy sự liên quan gì đến nội dung. 
 Dù vậy vẫn phải nói, với tôi, nó là cuốn sách đáng đọc. 
@@ -34,4 +38,4 @@ mà bởi cách tác giả truyền đạt: chân thật, mộc mạc và thực
 
 Đó là tất cả những gì tôi có thể review về cuốn sách. Tôi tin nếu bạn đọc cuốn sách này, 
 dù ít hay nhiều, bạn sẽ tìm thấy và nhận được điều gì đó, và có lẽ, sẽ khác với tôi. 
-Vì chúng ta đọc bằng cảm xúc và trải nghiệm của riêng ta.
+**Vì chúng ta đọc bằng cảm xúc và trải nghiệm của riêng mình.**
