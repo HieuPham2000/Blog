@@ -4,8 +4,7 @@ title: About me
 subtitle: Người bình thường, muốn có cuộc sống không tầm thường
 ---
 
-Mình là Hiếu (*Hiếu Phạm*). Một chút thông tin về mình:
-
+Mình là Hiếu (*Hiếu Phạm*). Một chút thông tin về mình:  
 - Sống tại Hà Nội
 - 20 tuổi *kém* 7 tháng
 - Sinh viên năm 2 chuyên ngành Khoa học máy tính
@@ -33,7 +32,7 @@ Chút xíu về **sở thích**:
  - Keep it simple
  - Just do it!
  
-**What else do you need? Bạn muốn biết thêm điều gì ư?**
+**What else do you need? Bạn muốn biết thêm điều gì ư?**  
    *Contact me!*
  
  
