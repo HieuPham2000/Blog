@@ -5,6 +5,10 @@ subtitle:        -nguyễn ngọc thạch-
 bigimg: /img/path.jpg
 tags: [books, review]
 ---
+>    live fast  
+>    die young
+>      be wild
+>     have fun
 
 Đây là cuốn sách 95k mà tôi mua với giá 15k trong một lần lướt tiki trước dịp Tết. Ờm thì đọc tiêu đề thì có vẻ là sách self-help 
 hay tự truyện gì đó về "*tuổi trẻ*", tôi cũng không quan tâm thể loại lắm, chủ yếu ham rẻ nên mua cho đủ đơn hàng freeship.
@@ -14,7 +18,7 @@ Thôi thì mình cũng tự tin *chắc "nó" chừa mình ra*.
 Dù tự tin là vậy, vẫn không thể thay đối sự thật rằng: vừa lật vài trang đầu, trong cuốn sách của tôi, ngay phần đầu tiên- 
 "*TUỔI TRẺ SẼ CÓ GÌ?*", đập vào mắt là 4 trang giấy trắng tinh. Ừ thì cam chịu thôi, tiền nào của nấy. 
 
-![Những trang giấy trắng](/img/tuoi-tre-hoang-dai.jpg){: .center-block :}
+![Những trang giấy trắng tinh](/img/tuoi-tre-hoang-dai.jpg){: .center-block :}
 
 **NHƯNG**, đừng vì thế mà bạn bỏ qua cuốn sách này nhé, hãy cùng tôi đọc tiếp và cùng tìm ra câu trả lời.
 
@@ -24,8 +28,8 @@ Dù tự tin là vậy, vẫn không thể thay đối sự thật rằng: vừa
 >...*"
 
 **TUỔI TRẺ HOANG DẠI** - như lời tác giả viết :
->"*Một cuốn sách đơn giản,
->của một người đi từ nơi không có gì
+>"*Một cuốn sách đơn giản,  
+>của một người đi từ nơi không có gì  
 >đến nơi không còn gì.*"
 
 Nghe có vẻ *so deep*, nhưng thực sự đọc xong thì tôi vẫn chưa thấy sự liên quan gì đến nội dung. 
