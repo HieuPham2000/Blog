@@ -1,15 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Là người bình thường nhưng muốn có cuộc sống không tầm thường
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Mình là Hiếu. Một chút thông tin:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Sống tại Hà Nội
+- 20 tuổi - 7 tháng
+- Sinh viên năm 2 chuyên ngành Khoa học máy tính
+- Đang học tại Trường Đại học Bách khoa Hà Nội (HUST)
 
-What else do you need?
+What else do you need? 
+Bạn muốn biết thêm điều gì ư? 
+Contact me!
 
 ### my history
 
