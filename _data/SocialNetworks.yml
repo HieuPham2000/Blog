@@ -9,12 +9,12 @@
 
 facebook:
   name: "Facebook"
-  urlTemplate: "https://www.facebook.com/{value}"
+  urlTemplate: "https://www.facebook.com/hieu.pt.52000"
   icon: "fab fa-facebook"
 
 github:
   name: "GitHub"
-  urlTemplate: "https://github.com/{value}"
+  urlTemplate: "https://github.com/HieuPham2000"
   icon: "fab fa-github"
 
 twitter:
@@ -29,12 +29,12 @@ reddit:
 
 email:
   name: "Email me"
-  urlTemplate: "mailto:{value}"
+  urlTemplate: "mailto:hieu.pt183535@gmail.com"
   icon: "fas fa-envelope"
 
 linkedin:
   name: "LinkedIn"
-  urlTemplate: "https://linkedin.com/in/{value}"
+  urlTemplate: "https://linkedin.com/in/phạm-trung-hiếu-8575161a6/"
   icon: "fab fa-linkedin"
 
 xing:
