@@ -3,6 +3,7 @@ layout: post
 title: TUỔI TRẺ HOANG DẠI
 subtitle:        -nguyễn ngọc thạch-
 bigimg: /img/path.jpg
+image: /img/tuoi-tre-hoang-dai-avatar.jpg
 tags: [books, review]
 ---
 _Bài viết được viết vào 6/4/2020 với mục đích tham gia hoạt động TÔI Ở NHÀ - Vẫn Sáng Tạo Thả Ga_
