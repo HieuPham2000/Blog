@@ -122,7 +122,7 @@ url-pretty: "HieuPham2000.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 # disqus: ""
 
 # To use Facebook Comments, fill in a Facebook App ID
-# fb_comment_id: "519773308597135"
+fb_comment_id: "519773308597135"
 
 # To use Staticman comments, fill in repository, branch, and endpoint
 staticman:
