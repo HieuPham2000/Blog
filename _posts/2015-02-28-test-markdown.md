@@ -7,6 +7,7 @@ gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
+Đây là bài viết có sẵn, không xóa vì sau này có thể tận dụng 1 vài thứ liên quan đến markdown
 
 You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
