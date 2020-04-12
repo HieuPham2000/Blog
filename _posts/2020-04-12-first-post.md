@@ -4,4 +4,4 @@ title: First post!
 image: /img/hello_world.jpeg
 ---
 
-This is my first post, how exciting!
+Thực ra đây là post thứ 2 :))
