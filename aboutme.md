@@ -10,6 +10,7 @@ Mình là Hiếu (*Hiếu Phạm*). Một chút thông tin về mình:
 - Sinh viên năm 2 chuyên ngành Khoa học máy tính
 - Đang học tại Trường Đại học Bách khoa Hà Nội (*HUST*).
 
+***   
 Chút xíu về **sở thích**:
 - Xem hoạt hình: 
   * [One Piece](https://vi.wikipedia.org/wiki/One_Piece) 
@@ -24,14 +25,17 @@ Chút xíu về **sở thích**:
   * [Em yêu trường em](https://www.youtube.com/watch?v=Ln9ZRx-kgbg)
   * [Đường bốn mùa xuân](https://www.youtube.com/watch?v=fRGav42fY2o)
   
+ ***    
  Câu nói yêu thích:
  > *"Thời điểm tốt nhất để trồng một cái cây là 20 năm trước. Thời điểm tốt thứ hai là ngay bây giờ."*
  
+ ***   
  Phương châm (*đang hướng tới*):
  - Think out of the box
  - Keep it simple
  - Just do it!
  
+ ***   
 **What else do you need? Bạn muốn biết thêm điều gì ư?**  
    *Contact me!*
  
