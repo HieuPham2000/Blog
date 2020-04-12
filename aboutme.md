@@ -4,18 +4,19 @@ title: About me
 subtitle: Người bình thường, muốn có cuộc sống không tầm thường
 ---
 
-Mình là Hiếu. Một chút thông tin về mình:
+Mình là Hiếu (*Hiếu Phạm*). Một chút thông tin về mình:
 
 - Sống tại Hà Nội
 - 20 tuổi *kém* 7 tháng
 - Sinh viên năm 2 chuyên ngành Khoa học máy tính
 - Đang học tại Trường Đại học Bách khoa Hà Nội (*HUST*).
 
-### What else do you need? Bạn muốn biết thêm điều gì ư? 
-***Contact me!***
 
-À, còn một chút xíu về ***sở thích*** của mình:
+What else do you need? Bạn muốn biết thêm điều gì ư? 
+   *Contact me!*
 
+
+À, còn một chút xíu về **sở thích** của mình:
 - Xem hoạt hình: 
   * [One Piece](https://vi.wikipedia.org/wiki/One_Piece) 
   * [Naruto](https://vi.wikipedia.org/wiki/Naruto)
@@ -28,7 +29,7 @@ Mình là Hiếu. Một chút thông tin về mình:
   * [Sóng](https://www.youtube.com/watch?v=Yl9mwX2Qo24&list=LLn0VKiemiA6P_pwp4w8i6yQ&index=42)
   * [Em yêu trường em](https://www.youtube.com/watch?v=Ln9ZRx-kgbg)
   * [Đường bốn mùa xuân](https://www.youtube.com/watch?v=fRGav42fY2o)
-***Còn sở thích của bạn là gì?***
+**Bạn có chung sở thích với mình không?**
                  
 
  
