@@ -1,8 +1,8 @@
 ---
 layout: post
 title: CÂU CHUYỆN NGHĨA ĐỊA
-subtitle: "...dành cho tất cả những ai đang là trẻ con hay đã từng có thời là trẻ con."
-bigimg: /img/night.jpg
+subtitle: ...dành cho tất cả những ai đang là trẻ con hay đã từng có thời là trẻ con.
+bigimg: /img/path.jpg
 image: /img/cau-chuyen-nghia-dia-avatar.jpg
 tags: [books, review]
 ---
