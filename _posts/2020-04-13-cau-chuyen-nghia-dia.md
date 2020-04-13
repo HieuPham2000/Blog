@@ -7,14 +7,15 @@ bigimg: /img/night.jpg
 image: /img/cau-chuyen-nghia-dia-avatar.jpg
 tags: [books, review]
 ---
-###Câu chuyện nghĩa địa   
-_Neil Gaiman_   
+# Câu chuyện nghĩa địa   
+### _Neil Gaiman_   
 
 _Bài viết tham gia cuộc thi "Sách Nhã Nam đi khắp thế gian 2019", hastag [#208](https://www.facebook.com/nhanampublishing/photos/a.10157337393554085/10157365491564085/?type=3),
 đăng ngày 12/7/2019_
+
 _Chia sẻ: Đây có lẽ là bài viết review sách đầu tiên của mình_
 
-_Bạn mong chờ điều gì ở cuốn sách này?_   
+### _Bạn mong chờ điều gì ở cuốn sách này?_   
 ~Một câu chuyện kinh dị?~   
 **Không**, ngòi bút của nhà văn Neil Gaiman sẽ mở ra cho chúng ta một thế giới kì lạ - thế giới của người sống,
 người chết và cả những người - có lẽ không hẳn là người hay đã từng là người.
@@ -32,5 +33,5 @@ dừng lại đầy lưu luyến trước giờ phút chia ly.
 >"Họ đã chết...Còn cháu thì chưa. Cháu còn sống.
 >Điều đó có nghĩa là cháu có những tiềm năng vô tận...Nếu cháu muốn thay đổi thế giới thì thế giới sẽ thay đổi...".
 
-![Cuốn sách và 1 câu trích dẫn](/img/cau-chuyen-nghia-dia.jpg "Câu trích dẫn yêu thích của mình"){{: .center-block :}
+![Cuốn sách và 1 câu trích dẫn](/img/cau-chuyen-nghia-dia.jpg "Câu trích dẫn yêu thích của mình"){: .center-block :}   
 _Một câu trích dẫn khiến mình cảm động_
