@@ -7,7 +7,7 @@ image: /img/cau-chuyen-nghia-dia-avatar.jpg
 tags: [books, review]
 ---
 
->*"Bâng khuâng, hài hước, khôn ngoan và sởn cả tóc gáy... Cuốn sách dành cho tất cả những ai đang là trẻ con hay đã từng có thời là trẻ >con." - Kirkus Reviews
+>*"Bâng khuâng, hài hước, khôn ngoan và sởn cả tóc gáy... Cuốn sách dành cho tất cả những ai đang là trẻ con hay đã từng có thời là trẻ con." - Kirkus Reviews
 
 ***
 
