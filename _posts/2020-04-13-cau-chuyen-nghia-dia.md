@@ -1,13 +1,13 @@
 ---
 layout: post
 title: CÂU CHUYỆN NGHĨA ĐỊA
-subtitle: ...dành cho tất cả những ai đang là trẻ con hay đã từng có thời là trẻ con
-bigimg: /img/path.jpg
+subtitle: -Neil Gaiman-
+bigimg: /img/night.jpg
 image: /img/cau-chuyen-nghia-dia-avatar.jpg
 tags: [books, review]
 ---
-# Câu chuyện nghĩa địa   
-### _Neil Gaiman_ 
+
+>*"Bâng khuâng, hài hước, khôn ngoan và sởn cả tóc gáy... Cuốn sách dành cho tất cả những ai đang là trẻ con hay đã từng có thời là trẻ >con." - Kirkus Reviews
 
 ***
 
@@ -20,8 +20,9 @@ _Chia sẻ: Đây có lẽ là bài viết review sách đầu tiên của mình
 ***
 
 ### _Bạn mong chờ điều gì ở cuốn sách này?_   
-*Một câu chuyện kinh dị?*  
-Có lẽ có, cũng có thể là không. Ngòi bút của nhà văn Neil Gaiman sẽ mở ra cho chúng ta một *thế giới kì lạ* - thế giới của *người sống*,
+*Một câu chuyện kinh dị?* 
+
+Có lẽ _có_, cũng có thể là _không_. Ngòi bút của nhà văn Neil Gaiman sẽ mở ra cho chúng ta một *thế giới kì lạ* - thế giới của *người sống*,
 *người chết* và cả những "*người*" - có lẽ *không hẳn là người hay đã từng là người*.
 Rồi bạn sẽ nhận thấy, chốn nghĩa địa *u ám* không đáng sợ như ta nghĩ, 
 nó cũng là một thế giới *sống động* của những người chết - những người *đã từng sống*,
@@ -39,4 +40,4 @@ dừng lại đầy lưu luyến trước giờ phút chia ly.
 >*Điều đó có nghĩa là cháu có những tiềm năng vô tận...Nếu cháu muốn thay đổi thế giới thì thế giới sẽ thay đổi...".*
 
 ![Cuốn sách và 1 câu trích dẫn](/img/cau-chuyen-nghia-dia.jpg "Câu trích dẫn yêu thích của mình"){: .center-block :}   
-_Một câu trích dẫn khiến mình cảm động_
+_Một câu trích dẫn khiến mình cảm động_{: .center-block :}  
