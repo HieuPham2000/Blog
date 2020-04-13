@@ -7,7 +7,7 @@ image: /img/cau-chuyen-nghia-dia-avatar.jpg
 tags: [books, review]
 ---
 
->*"Bâng khuâng, hài hước, khôn ngoan và sởn cả tóc gáy... Cuốn sách dành cho tất cả những ai đang là trẻ con hay đã từng có thời là trẻ con." - Kirkus Reviews
+>*"Bâng khuâng, hài hước, khôn ngoan và sởn cả tóc gáy... Cuốn sách dành cho tất cả những ai đang là trẻ con hay đã từng có thời là trẻ con." - Kirkus Reviews*
 
 ***
 
@@ -16,7 +16,6 @@ _Bài viết tham gia cuộc thi "Sách Nhã Nam đi khắp thế gian 2019", ha
 
 _Chia sẻ: Đây có lẽ là bài viết review sách đầu tiên của mình_
 
-***
 ***
 
 ### _Bạn mong chờ điều gì ở cuốn sách này?_   
@@ -40,4 +39,3 @@ dừng lại đầy lưu luyến trước giờ phút chia ly.
 >*Điều đó có nghĩa là cháu có những tiềm năng vô tận...Nếu cháu muốn thay đổi thế giới thì thế giới sẽ thay đổi...".*
 
 ![Cuốn sách và 1 câu trích dẫn](/img/cau-chuyen-nghia-dia.jpg "Câu trích dẫn yêu thích của mình"){: .center-block :}   
-_Một câu trích dẫn khiến mình cảm động_{: .center-block :}  
