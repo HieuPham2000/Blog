@@ -1,19 +1,22 @@
 ---
 layout: post
 title: CÂU CHUYỆN NGHĨA ĐỊA
-subtitle:"...dành cho tất cả những ai đang là trẻ con 
-    hay đã từng có thời là trẻ con."
+subtitle: "...dành cho tất cả những ai đang là trẻ con hay đã từng có thời là trẻ con."
 bigimg: /img/night.jpg
 image: /img/cau-chuyen-nghia-dia-avatar.jpg
 tags: [books, review]
 ---
 # Câu chuyện nghĩa địa   
-### _Neil Gaiman_   
+### _Neil Gaiman_ 
+
+***
 
 _Bài viết tham gia cuộc thi "Sách Nhã Nam đi khắp thế gian 2019", hastag [#208](https://www.facebook.com/nhanampublishing/photos/a.10157337393554085/10157365491564085/?type=3),
 đăng ngày 12/7/2019_
 
 _Chia sẻ: Đây có lẽ là bài viết review sách đầu tiên của mình_
+
+***
 
 ### _Bạn mong chờ điều gì ở cuốn sách này?_   
 ~Một câu chuyện kinh dị?~   
