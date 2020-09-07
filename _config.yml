@@ -12,10 +12,10 @@ description: hieupham
 
 # url is the the website domain URL without a trailing slash
 #url: "https://example.com"
-url: "https://HieuPham2000.github.io/blog"
+#url: "https://HieuPham2000.github.io/blog"
 
 # baseurl should be an empty string
-baseurl: "/blog"
+#baseurl: "/blog"
 
 # --- Navigation bar options --- #
 
