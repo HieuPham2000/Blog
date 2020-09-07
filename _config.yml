@@ -4,7 +4,7 @@
 title: Hieu Pham 's Blog
 
 # Short description of your site
-description: A bit about me
+description: Một chút về bản thân
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -12,10 +12,10 @@ description: A bit about me
 
 # url is the the website domain URL without a trailing slash
 #url: "https://example.com"
-url: "https://HieuPham2000.github.io"
+url: "https://HieuPham2000.github.io/blog"
 
 # baseurl should be an empty string
-#baseurl: ""
+baseurl: "/blog"
 
 # --- Navigation bar options --- #
 
