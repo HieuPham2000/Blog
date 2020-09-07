@@ -2,7 +2,7 @@
 layout: post
 title: NĂM 2
 subtitle: mình đã làm được gì? (update) 
-bigimg: /img/path.jpg
+bigimg: /img/hust1.jfif
 image: 
 tags: [tuoitrechuatraisudoi, suynghi]
 ---
