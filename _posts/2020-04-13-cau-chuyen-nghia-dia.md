@@ -1,10 +1,13 @@
 ---
 layout: post
 title: CÂU CHUYỆN NGHĨA ĐỊA
-subtitle: -Neil Gaiman-
+subtitle: '-Neil Gaiman-'
 bigimg: /img/night.jpg
 image: /img/cau-chuyen-nghia-dia-avatar.jpg
-tags: [books, review]
+tags:
+  - books
+  - review
+published: true
 ---
 
 >*"Bâng khuâng, hài hước, khôn ngoan và sởn cả tóc gáy... Cuốn sách dành cho tất cả những ai đang là trẻ con hay đã từng có thời là trẻ con." - Kirkus Reviews*
@@ -38,4 +41,4 @@ dừng lại đầy lưu luyến trước giờ phút chia ly.
 >*"Họ đã chết...Còn cháu thì chưa. Cháu còn sống.*
 >*Điều đó có nghĩa là cháu có những tiềm năng vô tận...Nếu cháu muốn thay đổi thế giới thì thế giới sẽ thay đổi...".*
 
-![Cuốn sách và 1 câu trích dẫn](/img/cau-chuyen-nghia-dia.jpg "Câu trích dẫn yêu thích của mình"){: .center-block :}   
+![Cuốn sách và 1 câu trích dẫn](/img/cau-chuyen-nghia-dia.jpg "Câu trích dẫn yêu thích của mình"){: .center-block :}![cau-chuyen-nghia-dia.jpg]({{site.baseurl}}/img/cau-chuyen-nghia-dia.jpg)
