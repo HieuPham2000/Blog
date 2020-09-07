@@ -6,7 +6,7 @@ bigimg: /img/hust1.jfif
 image: 
 tags: [tuoitrechuatraisudoi, suynghi]
 ---
-_Bài viết đầu tiên với tag #tuoitrechuatraisudoi của hiếu phạm._
+_Bài viết đầu tiên với tag [#tuoitrechuatraisudoi](https://hieupham2000.github.io/blog/tags/#tuoitrechuatraisudoi) của hiếu phạm._
 
 >"Nếu có thằng bạn nào của tôi vào đọc, hẳn sẽ tìm cách cà khịa :))"  
 >         ~ Bạn ~~Hiếu~~ H giấu tên chia sẻ ~
