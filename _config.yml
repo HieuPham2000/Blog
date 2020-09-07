@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Hieu Pham 's Blog
+title: Blog
 
 # Short description of your site
-description: 
+description: hieupham
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -15,7 +15,7 @@ description:
 url: "https://HieuPham2000.github.io/blog"
 
 # baseurl should be an empty string
-baseurl: "/blog"
+baseurl: ""
 
 # --- Navigation bar options --- #
 
