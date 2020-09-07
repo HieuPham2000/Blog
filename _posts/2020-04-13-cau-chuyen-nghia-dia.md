@@ -41,4 +41,4 @@ dừng lại đầy lưu luyến trước giờ phút chia ly.
 >*"Họ đã chết...Còn cháu thì chưa. Cháu còn sống.*
 >*Điều đó có nghĩa là cháu có những tiềm năng vô tận...Nếu cháu muốn thay đổi thế giới thì thế giới sẽ thay đổi...".*
 
-![Cuốn sách và 1 câu trích dẫn](/img/cau-chuyen-nghia-dia.jpg "Câu trích dẫn yêu thích của mình"){: .center-block :}![cau-chuyen-nghia-dia.jpg]({{site.baseurl}}/img/cau-chuyen-nghia-dia.jpg)
+![Cuốn sách và 1 câu trích dẫn]({{site.baseurl}}/img/cau-chuyen-nghia-dia.jpg "Câu trích dẫn yêu thích của mình")
