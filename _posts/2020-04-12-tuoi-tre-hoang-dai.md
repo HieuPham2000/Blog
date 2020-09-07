@@ -21,7 +21,7 @@ Thôi thì mình cũng tự tin *chắc "nó" chừa mình ra*.
 Dù tự tin là vậy, vẫn không thể thay đối sự thật rằng: vừa lật vài trang đầu, trong cuốn sách của tôi, ngay phần đầu tiên- 
 "*TUỔI TRẺ SẼ CÓ GÌ?*", đập vào mắt là 4 trang giấy trắng tinh. Ừ thì cam chịu thôi, tiền nào của nấy. 
 
-![Nếu bạn không load được ảnh: Ảnh chụp những trang giấy trắng tinh]({{site.baseurl}}/img/tuoi-tre-hoang-dai.jpg "Những trang giấy trắng tinh nè mọi người")
+![Ảnh chụp những trang giấy trắng tinh](/img/tuoi-tre-hoang-dai.jpg "Những trang giấy trắng tinh")
 
 **NHƯNG**, đừng vì thế mà bạn bỏ qua cuốn sách này nhé, hãy cùng tôi đọc tiếp và cùng tìm ra câu trả lời.
 
