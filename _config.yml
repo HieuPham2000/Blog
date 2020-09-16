@@ -26,6 +26,8 @@ navbar-links:
   Resources:
      - Learn markdown: "http://www.markdowntutorial.com/"
      - Learn GitHub: "https://lab.github.com/"
+     - GitHub Guides: https://guides.github.com/
+     - Learning Git Branching: https://learngitbranching.js.org/
 #  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
