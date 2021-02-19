@@ -7,7 +7,9 @@ image: /img/the-running-dream-avatar.jpg
 tags: [books, review]
 ---
 _Cuốn sách đầu tiên mình hoàn thành trong năm mới. Chắc phải đến 1 năm kể từ ngày mua rồi mình mới dành thời gian đọc hết cuốn sách này_
-<img src="https://raw.githubusercontent.com/HieuPham2000/blog/gh-pages/img/the-running-dream-quote2.jpg"  width="600" align="center" alt="Ảnh chụp câu nói ở trang bìa sau cuốn sách">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HieuPham2000/blog/gh-pages/img/the-running-dream-quote2.jpg"  width="600" align="center" alt="Ảnh chụp câu nói ở trang bìa sau cuốn sách">
+</p>
 >  Thứ mà tôi phải vượt qua là khoảng cách giữa tôi và chiến thắng, chứ không phải những ngày giữa tôi và bi kịch  
 
 Đây là những suy nghĩ của nhân vật chính Jessica Carlisle, khi cô đang trên đường hoàn thành cuộc thi chạy 10 dặm. 
@@ -20,10 +22,15 @@ Tai nạn xảy ra do chiếc xe buýt trở đội tuyển bị đâm bởi m�
 Các chương sau đó, lần lượt là "Lực cản", "Không do dự", "Thích nghi". Đó là quá trình mà Jessica đã trải qua nhiều cung bậc tâm trạng và cảm xúc, là hành trình nỗ lực và vượt lên
 của cô, với sự giúp đỡ của những con người tuyệt vời, là gia đình, thầy cô, bạn bè. Cha, mẹ, người luôn dành cho cô những điều tốt đẹp.
 Fiona, một người bạn thân luôn ở bên và giúp đỡ cô trong mọi hoàn cảnh. Thầy Kyro, huấn luyện viên, cùng các thành viên đội tuyển, những người chung sức quyên góp 20.000 đô để mua cho Jessica chiếc chân chạy.
-Rosa, một cô gái bị bại não, nhưng lại là "thiên tài toán học" theo lời Jessica, với một mong ước được mọi người nhìn nhận chính bản thân, chứ không phải vì hoản cảnh của mình.
+Rosa, một cô gái bị bại não, nhưng lại là "thiên tài toán học" theo lời Jessica, với một mong ước được mọi người nhìn nhận chính bản thân, chứ không phải vì hoàn cảnh của mình.
 Và Jessica đã giúp Rosa làm điều đó, cùng cô vượt qua vạch đích trong cuộc thi chạy 10 dặm, trong chương cuối cùng của cuốn sách, mang tên "Vạch xuất phát". Đúng vậy, sau tất cả, từ đây mới chính là vạch khởi đầu cho tương lai.
-<img src="https://raw.githubusercontent.com/HieuPham2000/blog/gh-pages/img/the-running-dream-quote1.jpg"  width="600" align="center" alt="Câu nói của Jessica với phóng viên khi chuẩn bị cho cuộc thi chạy cùng với Rosa">
-_Có lẽ câu nói trên của Jessica cũng đã truyền tải được thông điếp của cuốn sách_
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HieuPham2000/blog/gh-pages/img/the-running-dream-quote1.jpg"  width="600" align="center" alt="Câu nói của Jessica với phóng viên khi chuẩn bị cho cuộc thi chạy cùng với Rosa">
+  
+  _Có lẽ câu nói trên của Jessica cũng đã truyền tải được thông điệp của cuốn sách_
+</p>
+
 
 
 
