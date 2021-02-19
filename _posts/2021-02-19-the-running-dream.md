@@ -27,9 +27,11 @@ Và Jessica đã giúp Rosa làm điều đó, cùng cô vượt qua vạch đí
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HieuPham2000/blog/gh-pages/img/the-running-dream-quote1.jpg"  width="600" align="center" alt="Câu nói của Jessica với phóng viên khi chuẩn bị cho cuộc thi chạy cùng với Rosa">
-  
-  _Có lẽ câu nói trên của Jessica cũng đã truyền tải được thông điệp của cuốn sách_
 </p>
+<p align="center">
+  <i>Có lẽ câu nói trên của Jessica cũng đã truyền tải được thông điệp của cuốn sách</i>
+</p>
+
 
 
 
