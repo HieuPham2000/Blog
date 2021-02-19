@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Sách: Đường đua của những giấc mơ
+title: Đường đua của những giấc mơ
 subtitle:        -Wendelin Van Draanen-
 bigimg: /img/sunflower.jpg
 image: /img/the-running-dream-avatar.jpg
 tags: [books, review]
 ---
 _Cuốn sách đầu tiên mình hoàn thành trong năm mới. Chắc phải đến 1 năm kể từ ngày mua rồi mình mới dành thời gian đọc hết cuốn sách này_
-<img src="https://github.com/HieuPham2000/blog/tree/gh-pages/img/the-running-dream-quote2.jpg"  align="center" alt="Ảnh chụp câu nói ở trang bìa sau cuốn sách">
+<img src="https://raw.githubusercontent.com/HieuPham2000/blog/gh-pages/img/the-running-dream-quote2.jpg"  width="600" align="center" alt="Ảnh chụp câu nói ở trang bìa sau cuốn sách">
 >  Thứ mà tôi phải vượt qua là khoảng cách giữa tôi và chiến thắng, chứ không phải những ngày giữa tôi và bi kịch  
 
 Đây là những suy nghĩ của nhân vật chính Jessica Carlisle, khi cô đang trên đường hoàn thành cuộc thi chạy 10 dặm. 
@@ -22,7 +22,8 @@ của cô, với sự giúp đỡ của những con người tuyệt vời, là 
 Fiona, một người bạn thân luôn ở bên và giúp đỡ cô trong mọi hoàn cảnh. Thầy Kyro, huấn luyện viên, cùng các thành viên đội tuyển, những người chung sức quyên góp 20.000 đô để mua cho Jessica chiếc chân chạy.
 Rosa, một cô gái bị bại não, nhưng lại là "thiên tài toán học" theo lời Jessica, với một mong ước được mọi người nhìn nhận chính bản thân, chứ không phải vì hoản cảnh của mình.
 Và Jessica đã giúp Rosa làm điều đó, cùng cô vượt qua vạch đích trong cuộc thi chạy 10 dặm, trong chương cuối cùng của cuốn sách, mang tên "Vạch xuất phát". Đúng vậy, sau tất cả, từ đây mới chính là vạch khởi đầu cho tương lai.
-<img src="https://github.com/HieuPham2000/blog/tree/gh-pages/img/the-running-dream-quote1.jpg"  align="center" alt="Câu nói của Jessica với phóng viên khi chuẩn bị cho cuộc thi chạy cùng với Rosa">
+<img src="https://raw.githubusercontent.com/HieuPham2000/blog/gh-pages/img/the-running-dream-quote1.jpg"  width="600" align="center" alt="Câu nói của Jessica với phóng viên khi chuẩn bị cho cuộc thi chạy cùng với Rosa">
+_Có lẽ câu nói trên của Jessica cũng đã truyền tải được thông điếp của cuốn sách_
 
 
 
