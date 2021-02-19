@@ -11,10 +11,10 @@ Một tip để upload ảnh, get link để chèn vào file html hoặc markdow
 - B2: Chọn 1 issue và vào phần comment issue.
 - B3: Upload ảnh vào phần comment và lấy link được tạo ra.
 <p align="center">
- <img src="https://user-images.githubusercontent.com/61912505/108527647-1e945380-7305-11eb-9bdc-86dc65dbbaf5.png" alt="ảnh chụp màn hình" width="600">
+ <img src="https://user-images.githubusercontent.com/61912505/108527647-1e945380-7305-11eb-9bdc-86dc65dbbaf5.png" alt="ảnh chụp màn hình" width="1000">
 </p>
 
-Done!
+Ok. Vậy là đã xong. Nhưng hình như ảnh up xong không xóa được :v
 
 
 
