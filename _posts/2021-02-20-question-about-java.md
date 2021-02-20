@@ -84,10 +84,10 @@ Theo <a href="https://en.wikipedia.org/wiki/Java_version_history">Wikipedia</a>:
   <li>J2SE 5.0
   <ul>
     <li>À, 1 ý nhỏ, Java v1.5.0_05 ta gọi là Java 5 Update 5</li>
-    <li>Ở đây giới thiệu 1 hệ thống phiên bản mới cho ngôn ngữ Java. Cả version numbers "1.5.0" và "5.0" được sử dụng để chỉ bản release này của Java 2 Platform Standard Edition. Version "5.0" là product version, còn "1.5.0" là developer version. Con số "5.0" được sử dụng vì "<i>better reflect the level of maturity, stability, scalability and security of the J2SE.</i>". Điều này tiếp tục với các bản phát hành sau đó (Java 6 = JDK 1.6, Java 7 = JDK 1.7,...).
+    <li>Ở đây giới thiệu 1 hệ thống phiên bản mới cho ngôn ngữ Java. Cả version numbers "1.5.0" và "5.0" được sử dụng để chỉ bản release này của Java 2 Platform Standard Edition. Version "5.0" là product version, còn "1.5.0" là developer version. Con số "5.0" được sử dụng vì "<i>better reflect the level of maturity, stability, scalability and security of the J2SE.</i>". Điều này tiếp tục với các bản phát hành sau đó (Java 6 = JDK 1.6, Java 7 = JDK 1.7,...).</li>
   </ul>
   <li>Java SE 6: Sun thay tên "J2SE" bằng "Java SE" và bỏ ".0" khỏi version number. Nhưng số 1.6.0 thì vẫn là 1.6.0.</li>
-  <li>Rồi thì Java SE 7, Java SE 8 (LTS - Long-Term Support), 9, 10, 11 (LTS), 12, 13, 14....
+  <li>Rồi thì Java SE 7, Java SE 8 (LTS - Long-Term Support), 9, 10, 11 (LTS), 12, 13, 14....</li>
 </ul>
 
 Oke done.
