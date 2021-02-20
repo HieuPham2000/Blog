@@ -56,8 +56,8 @@ Ngắn gọn thì chỉ cần nhìn hình bên dưới:
     </p>
     <li>JVM vs Just-In-Time Compiler(JIT) : JIT là thành phần trong Excecution Engine của JVM. Được sử dụng để tăng hiệu quả của trình thông dịch.</li>
   </ul>
-  <li>JRE - Java Runtime Environment: Chứa những gì cần để chạy chương trình Java (đã biên dịch ???). Bao gồm: JVM, core classes, supporting files, lệnh ```java```,... Không thể sử dụng để tạo chương trình mới. Nếu chỉ quan tâm đến việc chạy chương trình Java trên máy tính, chỉ cần cài JRE (tức là, chỉ dùng chạy, không dùng để phát triển chương trình).</li>
-  <li>JDK - Java Development Kit: SDK (Software Development Kit) đầy đủ tính năng cho Java, là bộ Kit cung cấp môi trường để phát triển và thực thi (chạy) chương trình Java. Gồm: Development Tools(cung cấp mô trường phát triển chương trình Java, như compiler ```javac```, tools ```jdoc```, ```jdb```) và JRE (để chạy chương trình Java). Được sử dụng bởi Java Developers (nghĩa là muốn code Java thì cần cài JDK).</li>
+  <li>JRE - Java Runtime Environment: Chứa những gì cần để chạy chương trình Java (đã biên dịch ???). Bao gồm: JVM, core classes, supporting files, lệnh <mark>java</mark>,... Không thể sử dụng để tạo chương trình mới. Nếu chỉ quan tâm đến việc chạy chương trình Java trên máy tính, chỉ cần cài JRE (tức là, chỉ dùng chạy, không dùng để phát triển chương trình).</li>
+  <li>JDK - Java Development Kit: SDK (Software Development Kit) đầy đủ tính năng cho Java, là bộ Kit cung cấp môi trường để phát triển và thực thi (chạy) chương trình Java. Gồm: Development Tools(cung cấp mô trường phát triển chương trình Java, như compiler <mark>javac</mark>, tools <mark>jdoc</mark>, <mark>jdb</mark>) và JRE (để chạy chương trình Java). Được sử dụng bởi Java Developers (nghĩa là muốn code Java thì cần cài JDK).</li>
 </ul>
 
 ---
@@ -81,7 +81,7 @@ Theo <a href="https://en.wikipedia.org/wiki/Java_version_history">Wikipedia</a>:
 <ul>
   <li>Ban đầu ta có JDK 1.0 (phiên bản ổn định đầu tiên, JDK 1.0.2 được gọi là Java 1), rồi JDK 1.1</li>
   <li>Sau đó có J2SE 1.2 (Java 2 Platform, Standard Edition - thay từ "JDK" để phân biệt với J2EE, J2ME), rồi J2SE 1.3, J2SE 1.4<li>
-  <li>J2SE 5.0
+  <li>J2SE 5.0</li>
   <ul>
     <li>À, 1 ý nhỏ, Java v1.5.0_05 ta gọi là Java 5 Update 5</li>
     <li>Ở đây giới thiệu 1 hệ thống phiên bản mới cho ngôn ngữ Java. Cả version numbers "1.5.0" và "5.0" được sử dụng để chỉ bản release này của Java 2 Platform Standard Edition. Version "5.0" là product version, còn "1.5.0" là developer version. Con số "5.0" được sử dụng vì "<i>better reflect the level of maturity, stability, scalability and security of the J2SE.</i>". Điều này tiếp tục với các bản phát hành sau đó (Java 6 = JDK 1.6, Java 7 = JDK 1.7,...).</li>
