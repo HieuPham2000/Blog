@@ -50,14 +50,14 @@ Ngắn gọn thì chỉ cần nhìn hình bên dưới:
   </p>
   <ul>
     <li>Nhờ có JVM mà chương trình Java được gọi là Write One Run Everywhere</li>
-    <li>Về lỗi <i>java.lang.ClassNotFoundException</i>
+    <li>Về lỗi <i>java.lang.ClassNotFoundException</li>
     <p align="center">
       <img src="https://user-images.githubusercontent.com/61912505/108597585-5f02d880-73bc-11eb-8220-37ae041f99f3.png" width="600">
     </p>
     <li>JVM vs Just-In-Time Compiler(JIT) : JIT là thành phần trong Excecution Engine của JVM. Được sử dụng để tăng hiệu quả của trình thông dịch.</li>
   </ul>
-  <li>JRE - Java Runtime Environment: Chứa những gì cần để chạy chương trình Java (đã biên dịch ???). Bao gồm: JVM, core classes, supporting files, lệnh `java`,... Không thể sử dụng để tạo chương trình mới. Nếu chỉ quan tâm đến việc chạy chương trình Java trên máy tính, chỉ cần cài JRE (tức là, chỉ dùng chạy, không dùng để phát triển chương trình).</li>
-  <li>JDK - Java Development Kit: SDK (Software Development Kit) đầy đủ tính năng cho Java, là bộ Kit cung cấp môi trường để phát triển và thực thi (chạy) chương trình Java. Gồm: Development Tools(cung cấp mô trường phát triển chương trình Java, như compiler `javac`, tools `jdoc`, `jdb`) và JRE (để chạy chương trình Java). Được sử dụng bởi Java Developers (nghĩa là muốn code Java thì cần cài JDK).</li>
+  <li>JRE - Java Runtime Environment: Chứa những gì cần để chạy chương trình Java (đã biên dịch ???). Bao gồm: JVM, core classes, supporting files, lệnh ```java```,... Không thể sử dụng để tạo chương trình mới. Nếu chỉ quan tâm đến việc chạy chương trình Java trên máy tính, chỉ cần cài JRE (tức là, chỉ dùng chạy, không dùng để phát triển chương trình).</li>
+  <li>JDK - Java Development Kit: SDK (Software Development Kit) đầy đủ tính năng cho Java, là bộ Kit cung cấp môi trường để phát triển và thực thi (chạy) chương trình Java. Gồm: Development Tools(cung cấp mô trường phát triển chương trình Java, như compiler ```javac```, tools ```jdoc```, ```jdb```) và JRE (để chạy chương trình Java). Được sử dụng bởi Java Developers (nghĩa là muốn code Java thì cần cài JDK).</li>
 </ul>
 
 ---
