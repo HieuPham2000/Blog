@@ -50,7 +50,7 @@ Ngắn gọn thì chỉ cần nhìn hình bên dưới:
   </p>
   <ul>
     <li>Nhờ có JVM mà chương trình Java được gọi là Write One Run Everywhere</li>
-    <li>Về lỗi <i>java.lang.ClassNotFoundException</li>
+    <li>Về lỗi <i>java.lang.ClassNotFoundException</i></li>
     <p align="center">
       <img src="https://user-images.githubusercontent.com/61912505/108597585-5f02d880-73bc-11eb-8220-37ae041f99f3.png" width="600">
     </p>
