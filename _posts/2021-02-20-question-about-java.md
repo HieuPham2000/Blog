@@ -14,7 +14,8 @@ tags: [java]
 <div id="1-some-key-word"></div>
 
 ### 1. Một vài thuật ngữ: JDK, JRE...
-:point_right: Trước hết hãy đọc <a href="https://www.facebook.com/namdotnet/posts/1400347743483571" target="_blank">bài viết Giới thiệu về Java trên page Nam .NET.</a>  
+
+Trước hết hãy đọc <a href="https://www.facebook.com/namdotnet/posts/1400347743483571" target="_blank">bài viết Giới thiệu về Java trên page Nam .NET.</a>  
 Tóm tắt:
 <ul>
   <li>Cái tên Java => chỉ 3 phần khác nhau: ngôn ngữ Java, Java Runtime, các thư viện Java => gom lại: Java Platform.</li>
@@ -28,13 +29,13 @@ Tóm tắt:
   <li> Java trên Android: là một platform được thiết kế riêng cho Android, tạm coi nó không phải là Java ME, cũng không phải là Java SE "thuần chủng". Các phiên bản Android trước đây dựa trên Apache Harmony, sau này dựa trên Open JDK.</li>
  </ul>
 
-:point_right: Tiếp theo là về JDK, JRE, JVM  
+Tiếp theo là về JDK, JRE, JVM  
 Nguồn tìm hiểu:
 <ul>
-  <li><a href="https://www.geeksforgeeks.org/differences-jdk-jre-jvm/">Differences between JDK, JRE and JVM - GeeksforGeeks<a></li>
-  <li><a href="https://stackoverflow.com/questions/1906445/what-is-the-difference-between-jdk-and-jre">What is the difference between JDK and JRE? - Stackoverflow<a></li>
-  <li><a href="https://viettuts.vn/java/su-khac-nhau-giua-jdk-jre-va-jvm">Sự khác nhau giữa JDK, JRE và JVM - Viettuts<a></li>
-</ul>
+  <li><a href="https://www.geeksforgeeks.org/differences-jdk-jre-jvm/">Differences between JDK, JRE and JVM - GeeksforGeeks</a></li>
+  <li><a href="https://stackoverflow.com/questions/1906445/what-is-the-difference-between-jdk-and-jre">What is the difference between JDK and JRE? - Stackoverflow</a></li>
+  <li><a href="https://viettuts.vn/java/su-khac-nhau-giua-jdk-jre-va-jvm">Sự khác nhau giữa JDK, JRE và JVM - Viettuts</a></li>
+</ul>  
 Ngắn gọn thì chỉ cần nhìn hình bên dưới:
 <p align="center">
  <img src="https://media.geeksforgeeks.org/wp-content/uploads/JDK_JRE_JVM_x.jpg" alt="ảnh chụp màn hình" width="300">
@@ -64,7 +65,8 @@ Ngắn gọn thì chỉ cần nhìn hình bên dưới:
 <div id="2-java-version"></div>
 
 ### 2. Java version
-:point_right: Nếu bạn đã từng mông lung trước các phiên bản java như 1.8 và 8... thì chúng ta giống nhau rồi, cùng tìm hiểu nhé. 
+
+Nếu bạn đã từng mông lung trước các phiên bản java như 1.8 và 8... thì chúng ta giống nhau rồi, cùng tìm hiểu nhé. 
 
 Xem thông tin tại 1 số nguồn sau:
 <ul>
@@ -73,7 +75,7 @@ Xem thông tin tại 1 số nguồn sau:
   <li><a href="https://www.oracle.com/java/technologies/javase/jdk8-naming.html">JDK 8 Naming</a>.</li>
 </ul>
 
-Nói ngắn gọn và đơn giản thì Java 8 và 1.8 là nhắc tới cùng một thứ. Tương tự có Java 5 ~ Java 1.5, Java 6 ~ 1.6, Java 7 ~ Java 1.7. Còn Java 10, 11, 12, 13, 14... thì không biết :no_mouth:
+Nói ngắn gọn và đơn giản thì Java 8 và 1.8 là nhắc tới cùng một thứ. Tương tự có Java 5 ~ Java 1.5, Java 6 ~ 1.6, Java 7 ~ Java 1.7. Còn Java 10, 11, 12, 13, 14... thì không biết :v
 
 Theo <a href="https://en.wikipedia.org/wiki/Java_version_history">Wikipedia</a>:
 <ul>
@@ -88,7 +90,7 @@ Theo <a href="https://en.wikipedia.org/wiki/Java_version_history">Wikipedia</a>:
   <li>Rồi thì Java SE 7, Java SE 8 (LTS - Long-Term Support), 9, 10, 11 (LTS), 12, 13, 14....
 </ul>
 
-Oke done. :clap::clap::clap:
+Oke done.
 
 
 
